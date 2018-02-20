@@ -22,5 +22,3 @@ describe('warmup', () => {
     assert.deepEqual(fahrenheit, 104);
   });
 });
-
-//test
